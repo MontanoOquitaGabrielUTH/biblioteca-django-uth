@@ -4,6 +4,16 @@ Aplicación web desarrollada con Django y MySQL para gestionar una biblioteca. P
 
 ---
 
+## Tecnologías utilizadas
+- Python 3.1x
+- Django 4.2
+- MySQL
+- Bootstrap
+- HTML, CSS, JavaScript
+- Git/GitHub
+
+---
+
 
 ## Instrucciones de instalación
 
@@ -134,16 +144,6 @@ Abrir el navegador en:
 ```text
 http://127.0.0.1:8000/
 ```
-
-## Tecnologías utilizadas
-- Python 3.1x
-- Django 4.2
-- MySQL
-- Bootstrap
-- HTML, CSS, JavaScript
-- Git/GitHub
-
----
 
 ## Estructura del proyecto
 
